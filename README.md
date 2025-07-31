@@ -6,7 +6,7 @@
 
  .navicon-a::before{content: attr(aria-label);
 
- 말줄임표시
+ 말줄임표시(...)
 
  공지사항 버튼 오른쪽 끝으로보내기
 
