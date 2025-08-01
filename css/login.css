@@ -49,4 +49,7 @@ button[type="button"]{
       background-color: #e3e6c0;
       margin-left: auto;
       display: block;
-}
+      }
+      input:focus::placeholder{
+        color: transparent;
+      }
